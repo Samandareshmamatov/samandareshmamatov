@@ -1,6 +1,6 @@
 <h3>
           <img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=E4F71E&background=FFFFFF00&width=435&lines=I+am+a+Frontend+Developer;I+am+a+UI%2FUX+designer;I+am+creative+person"
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=E4F71E&background=FFFFFF00&width=435&lines=I+am+a+Frontend+Developer;I+am+a+UI%2FUX+designer;I+am+a+creative+person"
             alt="Typing SVG"
           />
       </h3>
