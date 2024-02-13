@@ -8,10 +8,3 @@
       <h2 className="desc-title">
         Samandar Eshmamatov!!
       </h2>
-      <ul className="desc-list">
-        <li>🌱 I’m currently learning everything about web development</li>
-        <li>⚡ Fun fact: I love sports and play guitar</li>
-        <li>
-          🥅 2023 Goals: Learn more about ReactJS, VueJs and Data structures
-        </li>
-      </ul>
